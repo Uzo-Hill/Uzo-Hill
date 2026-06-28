@@ -1,9 +1,32 @@
-Data Analytics Portfolio
+# Hi, I'm Hillary Uzoh 👋
 
-I am a Data Scientist / Data Analyst with experience in using different kinds of analytical tools and techniques to transform raw data into informative, business insights that drive decision-making and thoughtful management. 
-I am proficient in SQL, Python, Excel, Power BI and have good understanding of data analytics techniques such as dashboard building, story-telling, report writing, data mining, critical thinking.
+**Data Scientist & Machine Learning Engineer** with experience bridging data science and business operations.
+I build end-to-end ML systems, AI agents, data analysis, sports analytics and analytics pipelines that solve real business problems.
 
-In this portfolio are some of my data analytics projects that showcases my skills as a Data Scientist / Data Analyst.
+## 🛠 Tech Stack
+**Languages:** Python · SQL · R  
+**ML/AI:** Scikit-learn · XGBoost · LLamaIndex · CrewAI · FastAPI · Streamlit  
+**Data & BI:** Pandas · NumPy · Power BI · Excel  
+**Infrastructure:** Docker · MySQL  
 
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [FinShield AI](https://github.com/Uzo-Hill/finshield-ai) | Fraud detection system with SHAP explainability | XGBoost · SHAP · Streamlit · Docker |
+| MediAssist | Medical Q&A RAG pipeline with REST API | LlamaIndex · FastAPI · Streamlit |
+| ShopAssist AI | Multi-agent customer service assistant | CrewAI · Python |
+| AdPulse | CTR analytics across platforms & industries | MySQL · SQL |
+| Supply Chain Analysis | Operations insights for fashion & retail | Power BI |
+
+## 📊 Domain Expertise
+- Fraud & anomaly detection · NLP · Predictive modelling
+- Logistics & supply chain analytics
+- AI agent systems & RAG pipelines
+- Sports analytics
+
+## 📬 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hillaryuzoh/)
+[![Twitter/X](https://img.shields.io/badge/X-black?logo=x)](https://x.com/UzohHillary)
 
 
