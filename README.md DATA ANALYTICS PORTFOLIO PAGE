@@ -11,6 +11,7 @@ I build end-to-end ML systems, AI agents, and analytics pipelines that solve rea
 
 ## 🚀 Featured Projects
 
+
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [FinShield AI](https://github.com/Uzo-Hill/finshield-ai) | Fraud detection system with SHAP explainability | XGBoost · SHAP · Streamlit · Docker |
