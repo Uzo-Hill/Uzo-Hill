@@ -1,11 +1,11 @@
-# Hi, I'm Hillary Uzoh
+# Hi, I'm Hillary Uzoh 👋
 
 **AI Engineer & Data Scientist** with 6+ years bridging data science and logistics operations.
 I build end-to-end ML systems, AI agents, and analytics pipelines that solve real business problems.
 
 ## 🛠 Tech Stack
 **Languages:** Python · SQL · R  
-**ML/AI:** Scikit-learn · XGBoost · LLamaIndex · CrewAI · FastAPI · Streamlit  
+**ML/AI:** Scikit-learn · XGBoost · LlamaIndex · CrewAI · FastAPI · Streamlit  
 **Data & BI:** Pandas · NumPy · Power BI · Excel  
 **Infrastructure:** Docker · MySQL  
 
@@ -23,7 +23,13 @@ I build end-to-end ML systems, AI agents, and analytics pipelines that solve rea
 - Fraud & anomaly detection · NLP · Predictive modelling
 - Logistics & supply chain analytics
 - AI agent systems & RAG pipelines
+- Sports analytics
 
 ## 📬 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hillaryuzoh/)
-[![Twitter/X](https://img.shields.io/badge/X-black?logo=x)](https://x.com/UzohHillary)
+
+<a href="https://www.linkedin.com/in/hillaryuzoh/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/UzohHillary">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
